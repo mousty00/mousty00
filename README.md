@@ -33,8 +33,7 @@
                                                                                                                                                                                                                         
   | Project | Description | Stack |                                        
   |---|---|---|                          
-  | **step0n** | Italian streetwear e-commerce | Go · React · PostgreSQL |
+  | **step0n** | Italian streetwear e-commerce | Java · Spring Boot · React · PostgreSQL |
   | **gymbro** | Workout tracker iOS app | SwiftUI · Java · Spring Boot |
-  | **chat-noir** | cat api with TUI client | Java · React · Go |
-  | **easyride** | Ride-sharing API | Java · Spring Boot |
-  | **convify** | Youtube video/audio converter | Java · PHP |   
+  | **chat-noir** | cat api with TUI client | Java · Spring Boot · React · Go |
+  | **convify** | Youtube video/audio converter | Java · Spring Boot · React |   
