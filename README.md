@@ -5,11 +5,11 @@
 
   ## What I'm working on
 
-  | Project | What | Stack |
-  |---------|------|-------|
-  | **DropYourFit** | Multi-tenant SaaS e-commerce — single API serves N brands via per-tenant DB routing | Spring Boot 4 · React 19 · Bun · PostgreSQL · Redis · Traefik · Dokploy |
-  | **HireBoost** | AI-powered hiring platform — microservices architecture | Spring Boot 4 · Spring AI · Java 21 · API Gateway · Auth service |
-  | **ChatNoir** | Cats api | Spring Boot 4 · Next.js · Apollo GraphQL · Railway |
+| Project | What | Stack |
+|---------|------|-------|
+| **DropYourFit** | Multi-tenant SaaS e-commerce — single API serves N brands via per-tenant DB routing | Spring Boot 4 · React 19 · Bun · PostgreSQL · Redis · Traefik · Dokploy |
+| **HireBoost** | AI-powered hiring platform — microservices architecture | Spring Boot 4 · Spring AI · Java 21 · API Gateway · Auth service |
+| **RepBirds** | Social fitness app — workout tracking, rest timer, GPS run routes, feed, friends & push notifications | Spring Boot · Flutter · PostgreSQL · Docker · Dokploy |
 
 
   ## Tech
