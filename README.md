@@ -51,6 +51,6 @@
 
   ## Day job
 
-   Currently working at @ [Soluzione1](https://www.soluzione1.it) — Frontend/Mobile developer (Angular, Flutter).
+   Currently working at @ [Open Reply](https://www.reply.com/open-reply-italy/it) — Fullstack developer (Angular, Spring Boot).
 
   ---
